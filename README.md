@@ -2,8 +2,5 @@
 # My Personal Resume Website
 
 This repository contains my personal resume website built with HTML and CSS.
-
-## Project Goals
-- Learn Git and GitHub fundamentals  
-- Create a professional online presence  
-- Practice web development skills  
+# view my live resume  
+https://govadaselina.github.io/Selina-Govada.github.io/
